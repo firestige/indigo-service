@@ -18,7 +18,7 @@
 
     <properties>
         <java.version>8</java.version>
-        <guava.version>28.1-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
         <indigo.version>1.4.0-beta.r0</indigo.version>
         <junit.version>5.5.2</junit.version>
         <spring-boot.version>2.2.0.RELEASE</spring-boot.version>
